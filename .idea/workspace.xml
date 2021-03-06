@@ -6,7 +6,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="602e9312-b588-40ff-b176-21d0bd3c614d" name="Default Changelist" comment="" />
+    <list default="true" id="602e9312-b588-40ff-b176-21d0bd3c614d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +141,19 @@
       <option name="presentableId" value="Default" />
       <updated>1614936576560</updated>
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1615012012354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615012012354</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="465" y="233" key="#PSD" timestamp="1614992946195">
@@ -158,6 +172,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="734" y="386" width="452" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1614939877410" />
+    <state x="508" y="62" key="CommitChangelistDialog2" timestamp="1615012001586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="508" y="62" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615012001586" />
     <state x="728" y="241" key="FileChooserDialogImpl" timestamp="1615010111216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
