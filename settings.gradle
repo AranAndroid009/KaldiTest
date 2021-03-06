@@ -1,0 +1,7 @@
+include ':app'
+include ':lib-share-asr'
+rootProject.name = "KaldiTest"
+
+
+
+

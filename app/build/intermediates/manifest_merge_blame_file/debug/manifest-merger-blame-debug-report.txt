@@ -1,0 +1,79 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.winspread.kalditest"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+11-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:6:5-71
+11-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:6:22-68
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:7:5-81
+12-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:7:22-78
+13
+14    <application
+14-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:10:5-24:19
+15        android:allowBackup="true"
+15-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:11:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.1] G:\Users\SDK\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:12:9-43
+19        android:label="@string/app_name"
+19-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:13:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:14:9-54
+21        android:supportsRtl="true"
+21-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:15:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.KaldiTest" >
+23-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:16:9-47
+24        <activity android:name="com.winspread.kalditest.MainActivity" >
+24-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:17:9-23:20
+24-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:17:19-47
+25            <intent-filter>
+25-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:18:13-22:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:19:17-69
+26-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:19:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:21:17-77
+28-->H:\workspace\Android\github\KaldiTest\app\src\main\AndroidManifest.xml:21:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->[pub.devrel:easypermissions:3.0.0] G:\Users\SDK\caches\transforms-2\files-2.1\3ec291b54f22a421df4ceb3d4df359a8\jetified-easypermissions-3.0.0\AndroidManifest.xml:12:9-16:66
+32            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+32-->[pub.devrel:easypermissions:3.0.0] G:\Users\SDK\caches\transforms-2\files-2.1\3ec291b54f22a421df4ceb3d4df359a8\jetified-easypermissions-3.0.0\AndroidManifest.xml:13:13-86
+33            android:exported="false"
+33-->[pub.devrel:easypermissions:3.0.0] G:\Users\SDK\caches\transforms-2\files-2.1\3ec291b54f22a421df4ceb3d4df359a8\jetified-easypermissions-3.0.0\AndroidManifest.xml:14:13-37
+34            android:label=""
+34-->[pub.devrel:easypermissions:3.0.0] G:\Users\SDK\caches\transforms-2\files-2.1\3ec291b54f22a421df4ceb3d4df359a8\jetified-easypermissions-3.0.0\AndroidManifest.xml:15:13-29
+35            android:theme="@style/EasyPermissions.Transparent" />
+35-->[pub.devrel:easypermissions:3.0.0] G:\Users\SDK\caches\transforms-2\files-2.1\3ec291b54f22a421df4ceb3d4df359a8\jetified-easypermissions-3.0.0\AndroidManifest.xml:16:13-63
+36
+37        <service
+37-->[:lib-share-asr] H:\workspace\Android\github\KaldiTest\lib-share-asr\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-16:19
+38            android:name="com.dengjia.lib_share_asr.ShareAsrService"
+38-->[:lib-share-asr] H:\workspace\Android\github\KaldiTest\lib-share-asr\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-69
+39            android:enabled="true"
+39-->[:lib-share-asr] H:\workspace\Android\github\KaldiTest\lib-share-asr\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-35
+40            android:exported="true" >
+40-->[:lib-share-asr] H:\workspace\Android\github\KaldiTest\lib-share-asr\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-36
+41        </service>
+42
+43        <activity android:name="com.dengjia.lib_share_asr.ShareAsrActivity" >
+43-->[:lib-share-asr] H:\workspace\Android\github\KaldiTest\lib-share-asr\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-19:20
+43-->[:lib-share-asr] H:\workspace\Android\github\KaldiTest\lib-share-asr\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:19-76
+44        </activity>
+45    </application>
+46
+47</manifest>

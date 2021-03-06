@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./lib-share-asr/libs/kaldi-android-5.2.aar">
+    <CLASSES>
+      <root url="jar://G:/Users/SDK/caches/transforms-2/files-2.1/20380097dbce378617e24b3355787f54/jetified-kaldi-android-5.2/jars/classes.jar!/" />
+      <root url="file://G:/Users/SDK/caches/transforms-2/files-2.1/20380097dbce378617e24b3355787f54/jetified-kaldi-android-5.2/res" />
+      <root url="file://G:/Users/SDK/caches/transforms-2/files-2.1/20380097dbce378617e24b3355787f54/jetified-kaldi-android-5.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

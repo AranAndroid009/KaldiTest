@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+id recognize_file
+id recognize_mic
+id result_text
+layout main
+raw action_done
+raw tone_wake_1
+raw tone_wake_2
+raw tone_wake_3
+raw tone_wake_4
+raw tone_wake_5
+raw tone_wake_6
+raw tone_wake_7
+raw tone_wake_8
+raw tone_wake_9
+string elapsed
+string failed
+string preparing
+string ready
+string recognize_file
+string recognize_microphone
+string starting
+string stop_microphone

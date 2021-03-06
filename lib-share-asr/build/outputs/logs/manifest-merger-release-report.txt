@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+		INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+		ADDED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+		ADDED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:5:5-18:19
+service#com.dengjia.lib_share_asr.ShareAsrService
+ADDED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:7:9-12:19
+	android:enabled
+		ADDED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:9:13-35
+	android:exported
+		ADDED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:10:13-36
+	android:name
+		ADDED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:8:13-44
+activity#com.dengjia.lib_share_asr.ShareAsrActivity
+ADDED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:14:9-16:20
+	android:name
+		ADDED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:14:19-51
+uses-sdk
+INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+		ADDED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+		INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+		ADDED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+		INJECTED from H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml

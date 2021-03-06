@@ -1,0 +1,6 @@
+com/winspread/kalditest/MainActivity.java
+ com.winspread.kalditest.MainActivity
+ com.winspread.kalditest.MainActivity$1
+ com.winspread.kalditest.MainActivity$1$1
+com/winspread/kalditest/BuildConfig.java
+ com.winspread.kalditest.BuildConfig

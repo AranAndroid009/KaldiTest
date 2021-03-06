@@ -1,0 +1,31 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dengjia.lib_share_asr"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml
+10
+11    <application>
+11-->H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:5:5-18:19
+12        <service
+12-->H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:7:9-12:19
+13            android:name="com.dengjia.lib_share_asr.ShareAsrService"
+13-->H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:8:13-44
+14            android:enabled="true"
+14-->H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:9:13-35
+15            android:exported="true" >
+15-->H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:10:13-36
+16        </service>
+17
+18        <activity android:name="com.dengjia.lib_share_asr.ShareAsrActivity" >
+18-->H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:14:9-16:20
+18-->H:\workspace\Android\github\KaldiTest\lib-share-asr\src\main\AndroidManifest.xml:14:19-51
+19        </activity>
+20    </application>
+21
+22</manifest>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dengjia.lib_share_asr"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="30" />
+
+    <application>
+        <service
+            android:name="com.dengjia.lib_share_asr.ShareAsrService"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+
+        <activity android:name="com.dengjia.lib_share_asr.ShareAsrActivity" >
+        </activity>
+    </application>
+
+</manifest>
